@@ -170,11 +170,7 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-<<<<<<< HEAD
   background: #220825;
-=======
-  background: blue;
->>>>>>> 1f9215a7523b6e8e9699e3389c900459f3cf2465
   height: 100vh;
   color: #fff;
   min-height: 500px;
