@@ -170,7 +170,7 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("./assets/banner.jpg") no-repeat center;
+  background: url("https: //img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg") no-repeat center;
   height: 100vh;
   color: #fff;
   min-height: 500px;
@@ -634,4 +634,6 @@ footer span a:hover {
   .project-desc {
     margin-bottom: 0px;
   }
+}
+
 }
